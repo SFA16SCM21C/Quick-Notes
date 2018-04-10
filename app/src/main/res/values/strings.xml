@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="date"/>
+    <string name="editbtn">EDIT</string>
+    <string name="data"/>
+    <string name="dateText">date place</string>
+    <string name="dataText">data place</string>
+    <string name="image" />
+
+    <string name="editnote">Edit your Notes</string>
+    <string name="savedata">Notes Saved</string>
+    <string name="nofile">No file present</string>
+    <string name="filename">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+</resources>
